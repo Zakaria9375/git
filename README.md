@@ -1,2 +1,5 @@
-# git
+# Git
+
+## about
+
 git takeaways course
